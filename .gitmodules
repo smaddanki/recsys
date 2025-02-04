@@ -1,0 +1,3 @@
+[submodule "recsys-betting"]
+	path = recsys-betting
+	url = git@github.com:smaddanki/recsys-betting.git
